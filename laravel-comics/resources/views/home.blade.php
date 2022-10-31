@@ -4,10 +4,10 @@
 @section('content')
 <div class="home-container">
 <div class="prodotti">
- @foreach ($comics as $cc)
+ @foreach ($comics as $card)
      <div class="card">
-  <img src="{{ $cc['thumb'] }}" alt=" {{ $cc['description'] }}" />
-  <h5>{{$cc['series']}}</h5>
+  <img src="{{ $card['thumb'] }}" alt=" {{ $card['description'] }}" />
+  <h5>{{$card['series']}}</h5>
     </div>
 
      @endforeach

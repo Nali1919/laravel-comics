@@ -23,5 +23,5 @@ Route::get('/', function () {
         // 'users' => $users
     ];
 
-    return view('partials.home', $comics);
+    return view('home', $comics);
 });
