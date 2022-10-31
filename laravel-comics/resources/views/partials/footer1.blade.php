@@ -15,7 +15,7 @@
         </div>
         <div class="card1">
          <img src="{{ asset('images/buy-comics-subscriptions.png')}}" alt="">
-         <span>Comic SHop Locator</span>
+         <span>Comic Shop Locator</span>
         </div>
         <div class="card1">
          <img class="img-svg" src="{{ asset('images/buy-dc-power-visa.svg')}}" alt="">

@@ -1,6 +1,6 @@
 .container2{
     display: flex;
-    justify-content: space-between;
+    justify-content: space-around;
     max-width: 1200px;
     margin: 0 auto;
     padding: 20px;
@@ -18,6 +18,11 @@ color: black;
 
         li{
             padding: 0 10px;
+
+        }
+        li:hover{
+        border-bottom: 5px;
+        color: blue;
         }
     }
 
