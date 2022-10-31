@@ -9,22 +9,28 @@
 
 span{
 color: black;
+cursor: pointer;
 }
 
- ul {
+.container2{
+    ul {
         list-style-type: none;
         display: flex;
         justify-content: center;
 
         li{
             padding: 0 10px;
+            cursor: pointer;
 
         }
         li:hover{
-        border-bottom: 5px;
-        color: blue;
+       border-bottom: 5px solid aqua;
+
         }
     }
+
+}
+
 
     img{
     width: 100%;

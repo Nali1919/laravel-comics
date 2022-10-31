@@ -7,7 +7,7 @@
 
      </div>
 
-     <div>
+     <div class="flex-header">
      <span>DC power Visa</span>
      <span>Additional DC sites</span>
 

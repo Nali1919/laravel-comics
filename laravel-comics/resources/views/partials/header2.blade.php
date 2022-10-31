@@ -29,7 +29,8 @@
       </div>
 
       <div>
-        <span>Search <i class="fa-solid fa-magnifying-glass"></i></span>
+        <span>Search <i class="fa-solid fa-magnifying-glass"></i> </span>
+
       </div>
 
  </div>
